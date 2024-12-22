@@ -18,8 +18,6 @@
 <img width="675" alt="image" src="https://github.com/user-attachments/assets/fe7d7e6c-1e45-4970-bc20-fb71e9a4d087" />
 
 3. Enter your github username in the searchbar: 
-  
-> <img width="675" alt="searchbar" src="https://user-images.githubusercontent.com/65373279/133414391-f26a56a3-2b0a-47ba-a598-37fb30ead5eb.PNG">
 
 4. Check if it is `Private` (the default) and set it to `Public`: <br>
 
