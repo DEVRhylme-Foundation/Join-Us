@@ -3,6 +3,7 @@
 1. Go to the issues tab [here](https://github.com/DEVRhylme-Foundation/Join-Us/issues).
   
 2. In the Issues Tab and create a new issue.
+
    
 3. Select the "Invitation to DevRhylme Foundation - Github Organization" and fill in your details.
 
